@@ -91,6 +91,6 @@ if(age>18)
     console.log("You are elligible for voting");
 }
 else{
-    ("Your are not eligible for voting");
+    console.log("Your are not eligible for voting");
 }
 */
