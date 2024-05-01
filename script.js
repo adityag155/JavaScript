@@ -85,3 +85,12 @@ if(age<18){
     console.log("Your are under 18");
 }
 */
+/*let age=23;
+if(age>18)
+{
+    console.log("You are elligible for voting");
+}
+else{
+    ("Your are not eligible for voting");
+}
+*/
