@@ -94,3 +94,15 @@ else{
     console.log("Your are not eligible for voting");
 }
 */
+
+//Else-if statement:
+/*
+let age=23;
+if(age<18){
+    console.log("You are junior");
+}else if(age>60)
+{
+    console.log("You are senior");
+}else{
+    console.log("You are youngster");
+}*/
