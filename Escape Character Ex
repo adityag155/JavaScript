@@ -1,0 +1,8 @@
+//Escape Character:
+
+console.log("Apna\nCollege");
+
+console.log("Apna\tCollege");
+
+str3="Apna\tCollege";
+console.log(str3.length);       //12:it calculate /t as one
