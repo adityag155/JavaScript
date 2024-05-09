@@ -12,3 +12,7 @@ console.log(str.toLowerCase());         ////Print in lowercase
 //trim                                      //It trimp start and end space only
 let str2="    Apana    College    JS    ";
 console.log(str2.trim());
+
+//Slice
+let str3="01234567";
+console.log(str3.slice(1,5));           //1234
