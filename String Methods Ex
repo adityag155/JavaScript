@@ -16,3 +16,13 @@ console.log(str2.trim());
 //Slice
 let str3="01234567";
 console.log(str3.slice(1,5));           //1234
+
+//String Concating: Join two strings:
+//we can concat string in three type-
+
+let str4="Apna";
+let str5="College";
+let res=str4.concat(str5);
+console.log(res);
+//console.log(str4.concat(str5));
+//console.log(str4+str5);
