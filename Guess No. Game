@@ -7,3 +7,4 @@ while(userNum != gameNum){
 userNum=prompt("You guess wrong number, Guess again");
 }
 console.log("Congratulations!!!You entered the right number");
+//userNum=prompt("Congratulations!!!You entered the right number");          ///to see ans in promt
