@@ -1,0 +1,14 @@
+//String Methods:
+//methods of string are not change the original value, it return the new values
+
+//toUpperCase
+let str="ApnaCollege";
+console.log(str.toUpperCase());         //Print in upprcase
+
+//toLowerCase
+console.log(str);
+console.log(str.toLowerCase());         ////Print in lowercase
+
+//trim                                      //It trimp start and end space only
+let str2="    Apana    College    JS    ";
+console.log(str2.trim());
