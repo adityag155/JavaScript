@@ -1,0 +1,6 @@
+//String length and Specific char from index:
+let str="Hello aditya here";
+let str2="Im using javascript";
+
+console.log(str.length);         //17
+console.log(str2[7]);           //g
