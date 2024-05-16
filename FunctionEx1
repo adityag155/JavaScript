@@ -1,0 +1,16 @@
+//Functions:
+
+//All this are functions like; 
+/*console.log("hello");
+"abc".toUpperCase();
+
+[1,2,3].push(4);
+*/
+
+//Function defination
+function myFunction(msg)//parameter
+{
+         console.log(msg) ;
+}
+//Function calling
+myFunction("I love JS");//argument
