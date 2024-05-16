@@ -1,0 +1,15 @@
+//function -->2 numbers , sum
+
+function sum(a,b){
+    console.log(a+b);
+}
+sum(10,20);
+
+//Return value from function:
+function sum(x,y)
+{
+    s=x+y;
+    return s;
+}
+let val=sum(5,3);
+console.log(val);
