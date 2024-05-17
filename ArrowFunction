@@ -1,0 +1,12 @@
+//Arrow function:
+
+//Summation
+const arrowSum=(a, b)=>{
+    console.log(a+b);
+};
+arrowSum(4,5);
+
+//Multiplication
+const arrowMul=(x, y)=>{
+    console.log(x*y);
+}
