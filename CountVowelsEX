@@ -9,3 +9,5 @@ function countVowels(str){
     }
    console.log(count); 
 }   
+
+//for counting vowel in string save code and go in index.html page and write click on inspect then go in cosle and type countVowels and string you want to read Ex:=>countVowels("Hello");
